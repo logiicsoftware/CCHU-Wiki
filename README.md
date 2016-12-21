@@ -1,1 +1,1 @@
-# openmrs-module-cchuwiki
+# Wiki for CURE Children's Hospital of Uganda
